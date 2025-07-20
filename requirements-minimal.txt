@@ -1,0 +1,4 @@
+# Minimal requirements for basic functionality
+numpy>=1.21.0
+matplotlib>=3.4.0
+psutil>=5.8.0
